@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lab 4</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string-array name="radio_stations">
+        <item>UConn Radio</item>
+        <item>Hot 97.1</item>
+        <item> WDAQ 98.3</item>
+        <item>Star 99.9</item>
+
+    </string-array>
+
+
+</resources>
