@@ -53,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
 
         internetRadioButton = findViewById(R.id.radio_button);
         // it should work but I can't fix "E/MediaPlayer: Error (-38,0)" and "E/MediaPlayer: Error (1,-19)" bug
+        // would like to resolve this problem for lab 5
         internetRadioButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -206,5 +207,4 @@ public class MainActivity extends AppCompatActivity {
         };
 
     }
-
 }
